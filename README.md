@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nfx1z
-- 👀 I’m interested in sports and learning something new
-- 🌱 I’m currently learning Cloud Computing 
+- 👋 Hi, I’m <b>Mahadika Nafiz Luqman</b>
+- 👀 I’m interested in <b>sports</b> and learning something new
+- 🌱 I’m currently learning <b>Cloud Computing </b>
 
 
 <!---
