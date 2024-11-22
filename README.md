@@ -1,14 +1,6 @@
 ![Demo GIF](https://i0.wp.com/64.media.tumblr.com/4fe5afbe5d56be6921c1354b3d29edcb/tumblr_ple68favqO1ufq8wko1_1280.gifv)
 
-
-## 🚀 About Me
-
-- 👨‍💻 I’m currently working on **Liveness Detection**
-- 🌱 I’m learning **Cloud computing**
-
-
 ---
-
 
 ## 🌐 Connect with me
 
@@ -33,7 +25,3 @@
 ## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nfx1z&langs_count=10&layout=compact&theme=radical)
-
----
-
-Thanks for checking out my profile! 🌟
