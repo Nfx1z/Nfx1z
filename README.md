@@ -1,4 +1,4 @@
-![Demo GIF](https://i0.wp.com/64.media.tumblr.com/4fe5afbe5d56be6921c1354b3d29edcb/tumblr_ple68favqO1ufq8wko1_1280.gifv)
+![Demo GIF](https://cdna.artstation.com/p/assets/images/images/025/249/366/original/lennart-butz-ukiyo2.gif?1585180234)
 
 ---
 
