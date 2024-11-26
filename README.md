@@ -1,6 +1,5 @@
-![Demo GIF](https://cdna.artstation.com/p/assets/images/images/025/249/366/original/lennart-butz-ukiyo2.gif?1585180234)
+![Demo GIF](https://i.pinimg.com/originals/fc/09/f4/fc09f4874b9bee7fd983129e3ff388a7.gif)
 
----
 
 ## 🌐 Connect with me
 
@@ -12,7 +11,7 @@
 
 ## 🔧 Technologies & Tools
 
-![Technologies](https://img.shields.io/badge/Frontend-HTML,_CSS-blue?style=for-the-badge) ![Technologies](https://img.shields.io/badge/Backend-Python-green?style=for-the-badge)  ![Technologies](https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge)  ![Technologies](https://img.shields.io/badge/Tools-Git,_Docker-red?style=for-the-badge)
+![Technologies](https://img.shields.io/badge/Frontend-HTML,_CSS-blue?style=for-the-badge) ![Technologies](https://img.shields.io/badge/Backend-Python,_JS-green?style=for-the-badge)  ![Technologies](https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge)  ![Technologies](https://img.shields.io/badge/Tools-Git,_Docker-red?style=for-the-badge)
 
 ---
 
