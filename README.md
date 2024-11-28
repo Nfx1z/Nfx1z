@@ -15,9 +15,9 @@
 
 ## 📊 GitHub Stats
 
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nfx1z&show_icons=true&count_private=true&theme=radical)
+![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nfx1z&show_icons=true&theme=radical)
 
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nfx1z&langs_count=50&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nfx1z&langs_count=60&layout=compact&theme=radical)
