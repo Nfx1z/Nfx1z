@@ -15,7 +15,7 @@
 
 ## 📊 GitHub Stats
 
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nfx1z&count_private=false&show_icons=true&theme=radical)
+![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nfx1z&count_private=true&show_icons=true&theme=radical)
 
 
 ## 💻 Most Used Languages
