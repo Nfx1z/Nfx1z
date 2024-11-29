@@ -20,4 +20,4 @@
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nfx1z&langs_count=60&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nfx1z&langs_count=30&layout=compact&theme=radical)
