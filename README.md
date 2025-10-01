@@ -10,7 +10,7 @@
 
 ## 🔧 Technologies & Tools
 
-![Technologies](https://img.shields.io/badge/Frontend-HTML,_CSS-blue?style=for-the-badge) ![Technologies](https://img.shields.io/badge/Backend-Python,_JS-green?style=for-the-badge)  ![Technologies](https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge)  ![Technologies](https://img.shields.io/badge/Tools-Git,_Docker-red?style=for-the-badge)
+![Technologies](https://img.shields.io/badge/Language-HTML,_CSS,_JavaScript,_Python,_C/C++,_Dart,PHP-red?style=for-the-badge)
 
 
 ## 📊 GitHub Stats
