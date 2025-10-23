@@ -10,7 +10,7 @@
 
 ## 🔧 Technologies & Tools
 
-![Technologies](https://img.shields.io/badge/Language-HTML,_CSS,_JavaScript,_PHP,_Python,_C/C++,_Dart,PHP-red?style=for-the-badge)
+![Technologies](https://img.shields.io/badge/Language-HTML,_CSS,_JavaScript,_Python,_C/C++,_Dart,_PHP-white?style=for-the-badge)
 
 
 ## 📊 GitHub Stats
